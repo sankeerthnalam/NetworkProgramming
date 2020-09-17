@@ -1,2 +1,0 @@
-Can you think of ways to synchronize the printing of child and parent in such way that child and
-parent print the lines alternatively? {hint: use signals]
